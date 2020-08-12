@@ -59,11 +59,5 @@ export const Section = styled.section`
     }
 `;
 
-export const Projects = styled.section`
-    :hover {
-        background: charcoal;
-        opacity: .5;
-        text: "under construction"
-    }
-`;
+
 
