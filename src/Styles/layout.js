@@ -8,6 +8,10 @@ export const LayoutWrapper = styled.div`
     background: #F6F1F0;
 `;
 
+export const Projects = styled.div`
+    
+`;
+
 export const FooterWrapper = styled.footer`
     margin: 1rem 0;
     div {
